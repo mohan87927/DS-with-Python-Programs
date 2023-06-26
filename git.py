@@ -1,1 +1,1 @@
-print("Added this to work with github")
+print("Added this to practice with github")
